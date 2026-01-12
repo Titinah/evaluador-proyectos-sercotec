@@ -1,0 +1,16 @@
+{
+  "name": "Evaluador Sercotec",
+  "short_name": "Evaluador",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#004B8D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
